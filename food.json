@@ -1,0 +1,45 @@
+{
+  "foodItemName": "Quinoa",
+  "foodGroup": "Grains",
+  "description": "A versatile pseudo-grain.",
+  "nutritionalInformation": {
+    "calories": 120,
+    "macronutrients": {
+      "proteins": 4,
+      "fats": {
+        "saturated": 0.5,
+        "unsaturated": 2,
+        "trans": 0
+      },
+      "carbohydrates": 21,
+      "sugar": 0
+    },
+    "micronutrients": {
+      "vitamins": {
+        "A": 0,
+        "C": 0,
+        "D": 0
+      },
+      "minerals": {
+        "iron": 2.8,
+        "calcium": 20,
+        "potassium": 172
+      },
+      "otherNutrients": {
+        "fiber": 2.8
+      }
+    },
+    "sodium": 5,
+    "cholesterol": 0
+  },
+  "servingSize": "1 cup (185g)",
+  "allergens": [],
+  "ingredients": ["Quinoa"],
+  "preparationMethods": ["Boiled", "Steamed"],
+  "certifications": [],
+  "countryOfOrigin": "South America",
+  "brandOrManufacturer": "Various",
+  "dietaryRestrictions": ["Gluten-free", "Vegetarian", "Vegan"],
+  "healthBenefits": ["High in protein", "Rich in fiber", "Gluten-free"],
+  "bestPractices": "Store in a cool, dry place. Keep away from moisture."
+}
